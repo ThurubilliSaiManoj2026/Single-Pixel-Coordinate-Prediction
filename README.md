@@ -8,7 +8,6 @@ This project implements a deep learning solution to predict the coordinates (x, 
 ├── pixel_coordinate_prediction.ipynb    # Main Jupyter notebook with complete implementation
 ├── README.md                            # This file
 ├── requirements.txt                     # Python dependencies
-
 ```
 ## Installation Instructions
 ```
@@ -142,14 +141,14 @@ See `requirements.txt` for complete list with versions.
 - Handles all test cases correctly
 
 ### Approach Quality
-- Well-justified CNN architecture
+- Well justified CNN architecture
 - Comprehensive dataset design rationale
 - Multiple evaluation metrics
 - Thorough analysis and visualization
 
 ### Code Quality
 - PEP8 compliant
-- Well-documented with docstrings
+- Well documented with docstrings
 - Type hints for clarity
 - Modular and reusable functions
 - Error handling implemented
