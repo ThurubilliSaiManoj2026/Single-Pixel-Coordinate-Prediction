@@ -11,7 +11,7 @@ This project implements a deep learning solution to predict the coordinates (x, 
 ```
 ## Installation Instructions
 ```
-```
+
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
